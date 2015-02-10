@@ -4,6 +4,10 @@
 [![License](https://img.shields.io/cocoapods/l/ABSegmentedViewController.svg?style=flat)](http://cocoadocs.org/docsets/ABSegmentedViewController)
 [![Platform](https://img.shields.io/cocoapods/p/ABSegmentedViewController.svg?style=flat)](http://cocoadocs.org/docsets/ABSegmentedViewController)
 
+## Description
+
+A segmented control driven view controller container for two tabs designed with a flat interface. The selection/deselection colors and font attributes are fully customizable, and the interface simple to use.
+
 ## Example
 
 ![alt tag](https://www.github.com/abouzek/ABSegmentedViewController/raw/master/example.gif)
