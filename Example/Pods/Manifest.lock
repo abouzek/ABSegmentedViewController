@@ -1,0 +1,14 @@
+PODS:
+  - ABSegmentedViewController (0.4.0)
+
+DEPENDENCIES:
+  - ABSegmentedViewController (from `../`)
+
+EXTERNAL SOURCES:
+  ABSegmentedViewController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ABSegmentedViewController: 3401d14d38268af92cc239ba020d39c71382fbf0
+
+COCOAPODS: 0.35.0
