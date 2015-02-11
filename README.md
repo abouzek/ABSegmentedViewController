@@ -6,7 +6,7 @@
 
 ## Description
 
-A segmented control driven view controller container for two tabs designed with a flat interface. The selection/deselection colors and font attributes are fully customizable, and the interface simple to use.
+A segmented control driven view controller container for two tabs designed with a flat interface. The selection/deselection colors and font attributes are fully customizable, and the interface simple to use. Inspired by the design of the tables in the TriplAgent app.
 
 ## Example
 
